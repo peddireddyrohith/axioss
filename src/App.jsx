@@ -22,7 +22,7 @@ export default function App() {
             <li key={user.id}>{user.name}</li>
           ))}
         </ul>
-      )}//hii
+      )}
     </div>
   );
 }
