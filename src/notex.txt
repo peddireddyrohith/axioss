@@ -1,0 +1,7 @@
+Axios is a promised based http client to  make api request in react
+
+problems without axios 
+
+URL repeated
+ 
+ if base URl changes we have to change everywhere
